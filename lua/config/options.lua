@@ -53,4 +53,4 @@ vim.opt.conceallevel = 2
 -- wrapping
 vim.opt.wrap = true
 vim.opt.linebreak = true
-vim.g.lazyvim_prettier_needs_config = false
+vim.g.lazyvim_prettier_needs_config = true

@@ -19,8 +19,8 @@ return {
   opts = {
     workspaces = {
       {
-        name = "Obsidian-Sync",
-        path = "/home/pro/Notes/Obsidian-Sync-main",
+        name = "Obsidian",
+        path = "/home/pro/Notes",
       },
       -- {
       --   name = "work",
